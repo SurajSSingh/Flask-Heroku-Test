@@ -20,3 +20,4 @@ opencv-python==4.4.0.42
 rfc3986==1.4.0
 sniffio==1.1.0
 Werkzeug==1.0.1
+opencv-contrib-python-headless
